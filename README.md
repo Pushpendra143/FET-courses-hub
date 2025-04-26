@@ -1,1 +1,1 @@
-# FET-courses-hub
+# courses
